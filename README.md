@@ -8,6 +8,8 @@ This is just an example
 
 ## Deployment
 
+N/A
+
 ## Purpose
 
 Sample website with plenty of files for demos
