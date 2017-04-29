@@ -8,10 +8,12 @@ This is just an example
 
 ## Deployment
 
-N/A
+N/A - sample text here
 
 ## Purpose
 
 Sample website with plenty of files for demos
 
 ## How to Contribute
+YAY.. CONTRIBUTE!!!!
+MORE !!!
