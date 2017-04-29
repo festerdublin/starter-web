@@ -4,6 +4,8 @@ This is a simple website README FILE for github
 
 ## Introduction
 
+This is just an example
+
 ## Deployment
 
 ## Purpose
