@@ -19,4 +19,4 @@ MORE !!!
 Please fork this repository and pull this for review!
 
 ### Copyright
-This is my file.. I own it
+2014 All rights reserved
