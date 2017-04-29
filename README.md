@@ -17,3 +17,6 @@ Sample website with plenty of files for demos
 ## How to Contribute
 YAY.. CONTRIBUTE!!!!
 MORE !!!
+
+### Copyright
+This is my file.. I own it
