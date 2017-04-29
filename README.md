@@ -4,7 +4,7 @@ This is a simple website README FILE for github
 
 ## Introduction
 
-This is just an example, Adding a line for rebasing example
+This is just an example, Adding a line for rebasing example, more changes from my feature branched too!
 
 ## Deployment
 
